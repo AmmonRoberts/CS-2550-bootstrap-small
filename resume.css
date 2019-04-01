@@ -1,0 +1,6 @@
+.clickable {
+    cursor: pointer;
+}
+#summarySectionToggle, #skillsSectionToggle, #jobSectionToggle{
+    display: none;
+}
